@@ -3,7 +3,7 @@
 
 ## Loading the Library
 ```lua
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Player788/luau1/main/source.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Player788/7Exec/main/source.lua'))()
 ```
 
 ## Creating a Window
